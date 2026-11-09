@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "com.example.soundping.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": ["ClientPacketListenerMixin", "GameRendererMixin"],
+  "injectors": { "defaultRequire": 1 }
+}
